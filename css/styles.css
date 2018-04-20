@@ -2,3 +2,7 @@ body {
     background-color: #EFA447;
     background-image: url("../images/accommodation.jpg");
 }
+.home1 {
+  border-left: 8px solid blue;
+  margin-left: 100px;
+}
